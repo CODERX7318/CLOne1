@@ -599,7 +599,10 @@ svg{
    padding-top: 7px;
    margin-left: 110px;
 }
+@media(max-width:768px){section p,.d1,.d2,.d3,.d4{width:100%!important;margin:10px 0!important;text-align:left;display:flex;justify-content:center}}
+
 .follow:hover{
     background-color: black;
     color:#d5ff40;
 }
+
