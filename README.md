@@ -1,2 +1,1 @@
-# CLOne1
-My FIrst Website Using HTML and CSS
+As a B.Tech student, I built my first website clone inspired by a modern digital agency design. This project helped me strengthen my fundamentals in HTML and CSS by recreating complex layouts, large typography sections, animated scrolling text, interactive buttons, and responsive sections. I implemented Flexbox, media queries, and hover effects to ensure the website adapts smoothly across devices.
